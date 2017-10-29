@@ -1,3 +1,5 @@
+package com.loja.sistema.view;
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -8,12 +10,12 @@
  *
  * @author sandro
  */
-public class cadRevendas extends javax.swing.JPanel {
+public class vendOrcamentos extends javax.swing.JPanel {
 
     /**
-     * Creates new form cadRevendas
+     * Creates new form vendOrcamentos
      */
-    public cadRevendas() {
+    public vendOrcamentos() {
         initComponents();
     }
 

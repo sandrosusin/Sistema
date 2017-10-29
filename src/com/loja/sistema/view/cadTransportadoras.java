@@ -1,4 +1,4 @@
-package com.loja.sistema;
+package com.loja.sistema.view;
 
 /*
  * To change this license header, choose License Headers in Project Properties.

@@ -1,3 +1,5 @@
+package com.loja.sistema.view;
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -60,8 +62,6 @@ public class cadAgenda extends javax.swing.JPanel {
         jLabel2.setText("POSIÇÃO:");
 
         jLabel3.setText("DATA:");
-
-        jButton1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/add.png"))); // NOI18N
 
         jLabel4.setText("HORA:");
 
